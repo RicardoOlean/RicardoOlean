@@ -5,7 +5,7 @@ Meu nome Ricardo de Oliveira Leandro, sou estudante de Sistemas de Informação 
 
 
 Sou movido por desafios que exigem criatividade, empatia e olhar crítico. Acredito que a tecnologia é um meio poderoso de transformação, e minha missão é contribuir com soluções que sejam, acima de tudo,
-[ ## 📊 GitHub Stats:
+ ## 📊 GitHub Stats:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ricardooleans&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="49%" />
