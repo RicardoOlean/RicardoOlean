@@ -27,10 +27,13 @@ Email LinkedIn GitHub
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code> 
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma"/></code> 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello"/></code> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello"/></code>
+<br>
 ## 📊 GitHub Stats: 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ricardoOlean&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="49%" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoOlean&theme=dracula&hide_border=false" width="49%" /> </p> <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoOlean&theme=dracula&hide_border=false" width="49%" /> 
+</p> 
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoOlean&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" />
  </p>
  <br clear="both">
