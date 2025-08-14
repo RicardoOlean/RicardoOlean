@@ -14,7 +14,9 @@ Sou movido por desafios que exigem criatividade, empatia e olhar crítico. Acred
 🎓 Técnica em Informática avançada e adminstração - Microcamp Tecnologias
 📬 Conecte-se comigo no LinkedIn:
 Email LinkedIn GitHub
+<br>
 🖥️ Tecnologias e Ferramentas:
+<br>
 <code><img width="40x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="Intellij"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="Pycharm"/></code> 
