@@ -6,6 +6,15 @@
 Meu nome é Ricardo de Oliveira Leandro, sou estudante de Sistemas de Informação na Universidade PUC-Campinas e atualmente atuo como Aprendiz em Soluções Digitais na Bosch Brasil. Tenho paixão por transformar ideias em experiências digitais intuitivas, acessíveis e funcionais, com foco especial em desenvolvimento Front-End e UX/UI Design. 
 Minha jornada na área de TI começou com uma formação técnica e foi se expandindo por meio de estágios, experiências em suporte técnico e, mais recentemente, na vivência corporativa com foco em soluções digitais. 
 Sou movido por desafios que exigem criatividade, empatia e olhar crítico. Acredito que a tecnologia é um meio poderoso de transformação, e minha missão é contribuir com soluções que sejam, acima de tudo, humanas. 
+🚀 Sobre Mim
+🎓 Bacharelanda em Sistemas de Informação – Pontificia Universidade Catolica - Campinas (2022–2026)
+💼 Aprendiz em Soluções Digitais – Bosch Brasil
+👩‍💻 Desenvolvedor Front-End | UX/UI Designer
+🧰 Experiência com HTML, CSS, JavaScript, prototipagem, design responsivo e acessibilidade
+🎓 Técnica em Informática avançada e adminstração - Microcamp Tecnologias
+📬 Conecte-se comigo no LinkedIn:
+Email LinkedIn GitHub
+🖥️ Tecnologias e Ferramentas:
 <code><img width="40x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="Intellij"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="Pycharm"/></code> 
