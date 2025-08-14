@@ -20,7 +20,7 @@ Email LinkedIn GitHub
 🖥️ Tecnologias e Ferramentas:
 <br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devico@latest/icons/python/python-original.svg" title="Python"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devico/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="Intellij"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="Pycharm"/></code> 
