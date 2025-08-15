@@ -47,7 +47,7 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="arduino"/></code>
-  <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-origin.svg" title="illustrator"/> </code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" title="Illustrator"/></code>
 </p>
 
 ---
