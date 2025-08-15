@@ -22,17 +22,7 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
 
 ---
 
-<!--## 🧩 Projetos em Destaque
-
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| 🎨 **Portfólio Pessoal** | Website moderno e responsivo feito em React e Figma | [Ver projeto](https://github.com/ricardoOlean/portfolio) |
-| 📱 **App Flutter XYZ** | Aplicativo mobile com foco em acessibilidade e UI intuitiva | [Ver projeto](https://github.com/ricardoOlean/flutter-app) |
-| 🕹️ **Mario Tribute Page** | Página temática interativa com animações JS | [Ver projeto](https://github.com/ricardoOlean/mario-page) |-->
-
----
-
-## 🖥️ Tecnologias e Ferramentas:
+## 🖥️ Tecnologias e Ferramentas
 
 <p align="left">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
@@ -45,21 +35,18 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
   <br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" title="Intellij IDEA"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" title="IntelliJ IDEA"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"title="Django"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="arduino"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/>
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" title="Illustrator"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" title="PremierePro"/>
-
-
-   
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricardoOlean&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoOlean&theme=dracula&hide_border=false" width="49%" />
@@ -69,26 +56,26 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
 
 ---
 
-## 📬 Conecte-se comigo:
+## 📬 Conecte-se comigo
 
+<a href="https://www.linkedin.com/in/ricardo-oliveira-68a4b8235" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://www.linkedin.com/in/ricardo-oliveira-68a4b8235" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:oliveiraleandro.ricard@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="mailto:oliveiraleandro.ricard@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/ricardoOlean" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/ricardoOlean" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
 ### 🎮 Obrigado por visitar meu perfil!  
 Continue explorando, aprendendo e se divertindo com a tecnologia.  
 **Mamma mia! Até a próxima!** 🍝💻
-<br>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height="400" width="600"/>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height="400" width="600"/>
+</p>
