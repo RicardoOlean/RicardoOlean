@@ -50,10 +50,7 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="arduino"/>
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" title="Illustrator"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop"/>
-  <<!-- Ícone Premiere Pro branco -->
-<svg width="40" height="40" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-  <path fill="white" d="M6.3 0h115.4c3.5 0 6.3 2.8 6.3 6.3v115.4c0 3.5-2.8 6.3-6.3 6.3H6.3c-3.5 0-6.3-2.8-6.3-6.3V6.3C0 2.8 2.8 0 6.3 0z"/>
-  <path fill="white" d="M33.4 94.2V33.8h18.9c4.5 0 8.4.5 11.7 1.5 3.3 1 6 2.5 8.1 4.5 2.1 2 3.7 4.4 4.7 7.3 1 2.9 1.5 6.1 1.5 9.7 0 3.6-.5 6.9-1.6 9.8-1 2.9-2.6 5.4-4.8 7.4-2.2 2-4.9 3.6-8.1 4.6-3.2 1-7.1 1.5-11.6 1.5h-8.7v20
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" title="PremierePro"/>
 
 
    
