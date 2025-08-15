@@ -18,7 +18,7 @@ Sou movido por desafios que exigem criatividade, empatia e olhar crítico. Acred
 ---
 
 ## 📬 Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/ricardo-oliveira-68a4b8235)
+- [LinkedIn](https://www.linkedin.com/in/in/ricardo-oliveira-68a4b8235)
 - [Email](oliveiraleandro.ricard@gmail.com)
 - [GitHub](https://github.com/ricardoOlean)
 
