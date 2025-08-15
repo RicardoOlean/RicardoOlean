@@ -44,7 +44,7 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intelli-plain.svg" title="IntellijIDEA"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" title="Intellij IDEA"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"title="Django"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="arduino"/>
