@@ -50,7 +50,7 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="arduino"/>
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" title="Illustrator"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premiere/premiere-plain.svg" title="Premiere"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" title="PremierePro"/>
 
    
 </p>
