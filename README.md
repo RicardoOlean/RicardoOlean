@@ -1,6 +1,7 @@
 <!-- Banner animado ou estático aqui -->
 <p align="center">
-![mario](https://github.com/AkiraSunsets/RicardoOlean/blob/main/mario.gif)
+  <img src="https://raw.githubusercontent.com/ricardoOlea/RicardoOlea/main/mario.gif" alt="mario" />
+
 </p>
 
 # 🍄 It's-a me, Ricardo Oliveira!! 🎮✨  
