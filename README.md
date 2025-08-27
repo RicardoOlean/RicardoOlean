@@ -1,14 +1,15 @@
 <!-- Banner animado ou estático aqui -->
-<p align="center">
 
-  [<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height="300" width="500" />](https://cdn.pixabay.com/animation/2024/06/21/15/21/15-21-38-673_512.gif)
+
+<!-- Banner animado no topo do README -->
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2024/06/21/15/21/15-21-38-673_512.gif" alt="Rocket animation" width="50%" />
 </p>
 
-# 🍄 It's-a me, Ricardo Oliveira!! 🎮✨  
-Bem-vindo ao meu mundo digital!
-
-Sou o Ricardo de Oliveira Leandro, estudante de **Sistemas de Informação** na **PUC-Campinas** e atualmente Aprendiz em Soluções Digitais na **Bosch Brasil**.  
-Tenho paixão por transformar ideias em experiências **intuitivas, acessíveis e funcionais**, com foco especial em **Front-End** e **UX/UI Design**.
+# Welcome at  my space!!
+</p>
+Sou o Ricardo de Oliveira Leandro, estudante de Sistemas de Informação na PUC-Campinas e atualmente Aprendiz em Soluções Digitais na Bosch Brasil.  
+Tenho paixão por transformar ideias em experiências intuitivas, acessíveis e funcionais, com foco especial em Front-End e UX/UI Design.
 
 Minha missão é construir soluções **humanas** com criatividade, empatia e senso crítico.
 
@@ -73,10 +74,9 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
 
 ---
 
-### 🎮 Obrigado por visitar meu perfil!  
+### 🎮 Obrigado por visitar meu espaço!  
 Continue explorando, aprendendo e se divertindo com a tecnologia.  
-**Mamma mia! Até a próxima!** 🍝💻
+**Vamos voar juntos?!** 🍝💻
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height="400" width="600"/>
-</p>
+  
