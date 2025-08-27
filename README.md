@@ -1,7 +1,7 @@
 <!-- Banner animado ou estático aqui -->
 <p align="center">
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height="300" width="500" />
+  [<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height="300" width="500" />](https://cdn.pixabay.com/animation/2024/06/21/15/21/15-21-38-673_512.gif)
 </p>
 
 # 🍄 It's-a me, Ricardo Oliveira!! 🎮✨  
