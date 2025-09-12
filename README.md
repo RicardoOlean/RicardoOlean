@@ -18,7 +18,6 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
 ## 🚀 Sobre Mim
 - 🎓 Bacharelando em Sistemas de Informação – PUC-Campinas (2022–2026)  
 - 💼 Aprendiz em Soluções Digitais – Bosch Brasil  
-- 👨‍💻 Desenvolvedor Front-End | UX/UI Designer  
 - 🧰 Conhecimentos em HTML, CSS, JavaScript, React, prototipagem e acessibilidade  
 - 🎓 Técnico em Informática e Administração – Microcamp Tecnologias
 
