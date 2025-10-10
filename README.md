@@ -47,6 +47,7 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
   <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vuedotjs.svg" title="Vue.js" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/>
+  <img width="40" src="http://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular"/>
 </p>
 
 ---
