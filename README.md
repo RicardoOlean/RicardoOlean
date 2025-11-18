@@ -9,7 +9,7 @@
 # Welcome at  my space!!
 </p>
 Sou o Ricardo de Oliveira Leandro, estudante de Sistemas de Informação na PUC-Campinas e atualmente Aprendiz em Soluções Digitais na Bosch Brasil.  
-Tenho paixão por transformar ideias em experiências intuitivas, acessíveis e funcionais, com foco especial em Front-End e UX/UI Design.
+
 
 Minha missão é construir soluções **humanas** com criatividade, empatia e senso crítico.
 
