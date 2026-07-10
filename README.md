@@ -17,7 +17,7 @@ Minha missão é construir soluções **humanas** com criatividade, empatia e se
 
 ## 🚀 Sobre Mim
 - 🎓 Bacharelando em Sistemas de Informação – PUC-Campinas (2022–2026)  
-- 💼 Aprendiz em Soluções Digitais – Bosch Brasil  
+- 💼 Meio oficial em Soluções Digitais – Bosch Brasil  
 - 🎓 Técnico em Informática e Administração – Microcamp Tecnologias
 
 ---
